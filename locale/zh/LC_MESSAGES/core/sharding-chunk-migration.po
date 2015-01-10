@@ -236,7 +236,7 @@ msgid ""
 "By default, each document operation during chunk migration propagates to at "
 "least one secondary before the balancer proceeds with the next document."
 msgstr ""
-"默认情况下,每条被迁移的文档都必须被同步打牌至少一个从节点上之后,下一条文档才"
+"默认情况下,每条被迁移的文档都必须被同步到至少一个从节点上之后,下一条文档才"
 "能开始迁移."
 
 #: ../source/core/sharding-chunk-migration.txt:103

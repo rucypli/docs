@@ -65,7 +65,7 @@ msgstr "安全写级别不考虑标签的值，而是考虑标签值是否唯一
 msgid ""
 "For example, a tag set for a read operation may resemble the following "
 "document:"
-msgstr "举个栗子，一个读操作使用如下的条件："
+msgstr "举个例子，一个读操作使用如下的条件："
 
 #: ../source/tutorial/configure-replica-set-tag-sets.txt:42
 msgid ""

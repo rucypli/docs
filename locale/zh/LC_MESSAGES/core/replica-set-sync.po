@@ -50,7 +50,7 @@ msgid ""
 "as when the member is new, or when the member has data but is missing a "
 "history of the set's replication."
 msgstr ""
-"初始同步会将完整的数据集复制到各个节点上。当一个节点没有数据的适合，就会进行"
+"初始同步会将完整的数据集复制到各个节点上。当一个节点没有数据的时候，就会进行"
 "初始同步，比如，当它是新加的节点，或者它的数据已经无法通过复制追上最新的数据"
 "了，也会进行初始同步。"
 
